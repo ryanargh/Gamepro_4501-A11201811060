@@ -1,0 +1,11 @@
+A11201811060
+
+Cube -> Component = Transform, Mesh Filter, Mesh Render(Materials,Lighting,Probes,Additonal Setting), Box Collider
+
+Spehere -> Component = Transform, Sphere Mesh Filter, Mesh Render(Materials,Lighting,Probes,Additonal Setting), Sphere Collider
+
+Capsule -> Component = Transform, Capsule Mesh Filter, Mesh Render(Materials,Lighting,Probes,Additonal Setting), Capsule Collider
+
+Quad -> Component = Transform, Quad Mesh Filter, Mesh Render(Materials,Lighting,Probes,Additonal Setting), Mesh Collider
+
+Plane -> Component = Transform, Plane Mesh Filter, Mesh Render(Materials,Lighting,Probes,Additonal Setting), Mesh Collider
